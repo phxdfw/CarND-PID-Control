@@ -3,6 +3,11 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
+![screenshot](https://github.com/phxdfw/CarND-PID-Control/tree/master/images/PID.png)
+
+## Project Write Up
+Please view it [here](https://github.com/phxdfw/CarND-PID-Control/tree/master/writeup.md).
+
 ## Dependencies
 
 * cmake >= 3.5
